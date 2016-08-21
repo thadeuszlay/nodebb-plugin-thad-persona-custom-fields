@@ -13,17 +13,17 @@
   "_nodeVersion": "0.12.7",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/nodebb-plugin-ns-custom-fields-4.0.0.tgz_1457574785381_0.42862811451777816"
+    "tmp": "tmp/nodebb-plugin-thad-persona-custom-fields-4.0.0.tgz_1457574785381_0.42862811451777816"
   },
   "_npmUser": {
-    "email": "nicolas@siver.im",
-    "name": "nicolassiver"
+    "email": "thadeuszlay@gmail.com",
+    "name": "thadeuszlay"
   },
   "_npmVersion": "2.14.4",
   "_phantomChildren": {},
   "_requested": {
-    "name": "nodebb-plugin-ns-custom-fields",
-    "raw": "nodebb-plugin-ns-custom-fields",
+    "name": "nodebb-plugin-thad-persona-custom-fields",
+    "raw": "nodebb-plugin-thad-persona-custom-fields",
     "rawSpec": "",
     "scope": null,
     "spec": "latest",
@@ -32,16 +32,16 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-ns-custom-fields/-/nodebb-plugin-ns-custom-fields-4.0.0.tgz",
-  "_shasum": "a6375d6b449c23c160314fe0d1934f95b3968bb7",
+  "_resolved": "",
+  "_shasum": "",
   "_shrinkwrap": null,
-  "_spec": "nodebb-plugin-ns-custom-fields",
+  "_spec": "nodebb-plugin-thad-personacustom-fields",
   "_where": "/home/think/dev/jubilee/nodebb",
   "author": {
     "name": "Nicolas Siver"
   },
   "bugs": {
-    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields/issues"
+    "url": "https://github.com/thadeuszlay/nodebb-plugin-thad-persona-custom-fields/issues"
   },
   "dependencies": {
     "async": "^1.5.2",
@@ -55,11 +55,11 @@
   "devDependencies": {},
   "directories": {},
   "dist": {
-    "shasum": "a6375d6b449c23c160314fe0d1934f95b3968bb7",
-    "tarball": "https://registry.npmjs.org/nodebb-plugin-ns-custom-fields/-/nodebb-plugin-ns-custom-fields-4.0.0.tgz"
+    "shasum": "",
+    "tarball": ""
   },
-  "gitHead": "c89d4af40e47d6562454c5df7badbd7ba2d4c816",
-  "homepage": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields",
+  "gitHead": "",
+  "homepage": "https://github.com/thadeuszlay/nodebb-plugin-thad-persona-custom-fields",
   "keywords": [
     "extend",
     "nodebb",
@@ -71,11 +71,11 @@
   "main": "./plugin/index.js",
   "maintainers": [
     {
-      "name": "nicolassiver",
-      "email": "nicolas@siver.im"
+      "name": "thadeuszlay",
+      "email": "thadeuszlay@gmail.com"
     }
   ],
-  "name": "nodebb-plugin-ns-custom-fields",
+  "name": "nodebb-plugin-thad-persona-custom-fields",
   "nbbpm": {
     "compatibility": "^1.x"
   },
@@ -83,10 +83,10 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields.git"
+    "url": "git+https://github.com/thadeuszlay/nodebb-plugin-thad-persona-custom-fields.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "4.0.0"
+  "version": "0.0.1"
 }
