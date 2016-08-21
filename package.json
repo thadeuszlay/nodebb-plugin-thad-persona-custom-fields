@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      "nodebb-plugin-ns-custom-fields",
+      "/home/think/dev/jubilee/nodebb"
+    ]
+  ],
+  "_from": "nodebb-plugin-ns-custom-fields@latest",
+  "_id": "nodebb-plugin-ns-custom-fields@4.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nodebb-plugin-ns-custom-fields",
+  "_nodeVersion": "0.12.7",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodebb-plugin-ns-custom-fields-4.0.0.tgz_1457574785381_0.42862811451777816"
+  },
+  "_npmUser": {
+    "email": "nicolas@siver.im",
+    "name": "nicolassiver"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nodebb-plugin-ns-custom-fields",
+    "raw": "nodebb-plugin-ns-custom-fields",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-ns-custom-fields/-/nodebb-plugin-ns-custom-fields-4.0.0.tgz",
+  "_shasum": "a6375d6b449c23c160314fe0d1934f95b3968bb7",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-ns-custom-fields",
+  "_where": "/home/think/dev/jubilee/nodebb",
+  "author": {
+    "name": "Nicolas Siver"
+  },
+  "bugs": {
+    "url": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields/issues"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "fs-extra": "^0.26.5",
+    "keymirror": "^0.1.1",
+    "object-assign": "^4.0.1",
+    "underscore": "^1.8.3",
+    "winston": "^2.2.0"
+  },
+  "description": "Adds custom fields to the profile",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a6375d6b449c23c160314fe0d1934f95b3968bb7",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-ns-custom-fields/-/nodebb-plugin-ns-custom-fields-4.0.0.tgz"
+  },
+  "gitHead": "c89d4af40e47d6562454c5df7badbd7ba2d4c816",
+  "homepage": "https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields",
+  "keywords": [
+    "extend",
+    "nodebb",
+    "plugin",
+    "profile",
+    "user"
+  ],
+  "license": "MIT",
+  "main": "./plugin/index.js",
+  "maintainers": [
+    {
+      "name": "nicolassiver",
+      "email": "nicolas@siver.im"
+    }
+  ],
+  "name": "nodebb-plugin-ns-custom-fields",
+  "nbbpm": {
+    "compatibility": "^1.x"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasSiver/nodebb-plugin-ns-custom-fields.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.0"
+}
