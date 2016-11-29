@@ -44,8 +44,8 @@
     "url": "https://github.com/thadeuszlay/nodebb-plugin-thad-persona-custom-fields/issues"
   },
   "dependencies": {
-    "async": "^1.5.2",
-    "fs-extra": "^0.26.5",
+    "async": "^2.1.4",
+    "fs-extra": "^1.0.0",
     "keymirror": "^0.1.1",
     "object-assign": "^4.0.1",
     "underscore": "^1.8.3",
